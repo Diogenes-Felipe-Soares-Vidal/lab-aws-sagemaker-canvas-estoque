@@ -45,3 +45,19 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+## Resultados
+
+no treinamento da ML foi utilizado a base de dado canvas-sample-housing.csv, no treinamento foi utilizado o método mais rápido de 15 a 20 minutos, utilizando como target a população,
+
+RMSE(erro percentual absoluto ponderado) medição utilizado para analisar o desvio geral do valor previsto na relação do valores observados do modelo tendo a tendo a métrica para medir a precisão do modelo.
+
+MSE(erro quadrático médio) verificar a exatidão do modelos e da um maior peso aos maiores erros, cada erro e elevado ao quadrado individualmente.
+
+<img width="590" alt="Captura de tela 2024-07-29 141256" src="https://github.com/user-attachments/assets/f54cfcae-7070-47ed-9b89-ccfa5e367ad8">
+
+<img width="797" alt="Captura de tela 2024-07-29 141328" src="https://github.com/user-attachments/assets/3079b878-07b9-4d0e-b41e-1f73124dd2c6">
+
+
+tendo visto a analise da população de valores reais para valores previsto da população, a tendencia e crescimento.
+ 
